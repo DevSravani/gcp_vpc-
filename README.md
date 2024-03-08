@@ -1,4 +1,4 @@
-# gcp_vpc-[build](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/google-cloud-platform-build)
+# gcp_vpc-[build](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/google-cloud-platform-build) , [change](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/google-cloud-platform-change), [destory](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/google-cloud-platform-destroy)
 
 Build infrastructure
 10min
