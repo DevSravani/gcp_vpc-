@@ -19,7 +19,7 @@ Warning
 While everything provisioned in this tutorial should fall within GCP's free tier, if you provision resources outside of the free tier, you may be charged. We are not responsible for any charges you may incur.
 
 Prerequisites
-A Google Cloud Platform account. If you do not have a GCP account, create one now. This tutorial can be completed using only the services included in the GCP free tier.
+A Google Cloud Platform account. If you do not have a GCP account, create one now. This tutorial can be completed using only the services included in the [GCP free tier](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/google-cloud-platform-build).
 
 Terraform 0.15.3+ installed locally.
 
